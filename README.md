@@ -1,33 +1,52 @@
-# Python Mini Toolkit 🐍
+# 🐍 Python Mini Toolkit
 
-A collection of beginner-friendly Python programs built while learning programming.
+A collection of beginner-friendly Python projects built to practise programming fundamentals, logical thinking, and problem-solving.
 
-## Features
+## 🚀 Projects
 
-- Even or Odd Checker
-- Prime Number Checker
-- Interactive Menu
-- More features coming soon!
+| Project | Description |
+|---|---|
+| 🔢 Even/Odd & Prime Checker | Checks whether a number is even, odd, or prime. |
+| 🎮 Number Guessing Game | Guess a randomly generated number between 1 and 100. |
+| 🧮 Smart Calculator | Perform arithmetic operations with input validation. |
+| 🎓 Student Grade Calculator | Calculate total marks, percentage, and grade. |
+| 📝 To-Do List App | Add, complete, view, and delete tasks with persistent storage. |
 
-## Technologies Used
+## 🛠️ Built With
 
 - Python 3
+- JSON for saving tasks
+- Python standard library
 
-## How to Run
+## ▶️ Getting Started
 
 1. Install Python 3.
-2. Download or clone this repository.
+2. Clone or download this repository.
 3. Open a terminal in the project folder.
-4. Run:
+4. Run any project using Python:
 
 ```bash
-python main.py
+py number_guessing_game.py
 ```
 
-## Learning Goals
+Replace the filename with the Python file you want to run.
 
-- Practice loops and conditional statements
-- Improve problem-solving skills
-- Learn to organize and maintain code
+## 📚 What I'm Learning
 
-**Status:** In Progress 🚀
+- Variables and data types
+- Conditional statements and loops
+- Functions and error handling
+- Lists and dictionaries
+- File handling and JSON
+- Building practical projects
+
+## 🔮 Future Improvements
+
+- Add more Python projects
+- Improve existing programs
+- Explore GUI development
+- Learn Git and GitHub workflows
+
+---
+
+**Status:** Learning and building 🚀
